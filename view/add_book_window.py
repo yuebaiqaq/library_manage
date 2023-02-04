@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: add_book_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 22:40
-@desc:
-"""
+
 from PyQt5.QtCore import Qt, pyqtSignal
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QWidget

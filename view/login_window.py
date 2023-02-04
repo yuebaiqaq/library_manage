@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: login_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 19:47
-@desc:
-"""
+
 from threading import Thread
 
 from PyQt5.QtGui import QIcon

@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: dbutil.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 20:03
-@desc:
-"""
+
 
 import psycopg2
 

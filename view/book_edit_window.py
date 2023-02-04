@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: book_edit_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/10 9:12
-@desc:
-"""
+
 from threading import Thread
 
 from PyQt5.QtCore import Qt, pyqtSignal

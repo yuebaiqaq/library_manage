@@ -1,10 +1,4 @@
-"""
-@Time    : 2020/5/11 14:24
-@Author  : weijiang
-@Site    : 
-@File    : 数据库操作.py
-@Software: PyCharm
-"""
+
 import pymysql
 host = ''
 port = 0

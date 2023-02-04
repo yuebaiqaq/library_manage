@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: setting_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/6/27 23:07
-@desc:
-"""
+
 import sys
 
 from ui.setting_window import Ui_Form

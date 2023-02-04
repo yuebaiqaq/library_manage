@@ -1,10 +1,4 @@
-"""
-@Time    : 2020/6/23 10:55
-@Author  : weijiang
-@Site    : 
-@File    : crawl_util.py
-@Software: PyCharm
-"""
+
 import requests
 import re
 

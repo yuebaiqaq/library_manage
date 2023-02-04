@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: book_manage_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 22:24
-@desc:
-"""
+
 from threading import Thread
 
 from PyQt5.QtCore import pyqtSignal, Qt

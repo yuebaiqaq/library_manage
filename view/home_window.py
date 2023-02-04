@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: home_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 22:03
-@desc:
-"""
+
 import sys
 from threading import Thread
 

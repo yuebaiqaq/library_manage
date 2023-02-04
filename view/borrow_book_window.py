@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: borrow_book_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/10 14:25
-@desc:
-"""
+
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QWidget

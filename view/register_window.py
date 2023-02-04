@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: register_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 20:47
-@desc:
-"""
+
 import sys
 
 from PyQt5.QtCore import Qt

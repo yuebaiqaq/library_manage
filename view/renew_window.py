@@ -1,10 +1,4 @@
-"""
-@Time    : 2020/6/23 13:49
-@Author  : weijiang
-@Site    : 
-@File    : renew_window.py
-@Software: PyCharm
-"""
+
 from threading import Thread
 
 from PyQt5.QtCore import Qt, pyqtSignal

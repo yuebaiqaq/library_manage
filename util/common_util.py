@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: common_util.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 20:09
-@desc:
-"""
+
 import datetime
 import hashlib
 

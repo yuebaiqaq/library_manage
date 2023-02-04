@@ -1,10 +1,4 @@
-"""
-@Time    : 2020/6/29 15:51
-@Author  : weijiang
-@Site    : 
-@File    : ask_return_window.py
-@Software: PyCharm
-"""
+
 from threading import Thread
 
 from PyQt5.QtCore import Qt, pyqtSignal

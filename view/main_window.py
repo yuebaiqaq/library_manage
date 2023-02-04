@@ -1,11 +1,4 @@
-"""
-coding:utf-8
-file: main_window.py
-@author: jiangwei
-@contact: jiangwei_1994124@163.com
-@time: 2020/5/9 19:52
-@desc:
-"""
+
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QMainWindow, QMessageBox, QWidget
 from ui.main_window import Ui_MainWindow
